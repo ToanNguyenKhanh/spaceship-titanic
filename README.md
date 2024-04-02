@@ -1,20 +1,19 @@
-Introduction:
+# Introduction:
 
 This repository contains a Jupyter notebook named "spaceship-titanic.ipynb". This notebook analyzes the Titanic dataset using machine learning techniques.
 
-Dataset:
+# Dataset:
 
 The dataset used in this notebook is the famous Titanic dataset, which describes information about passengers and crew on the Titanic, including name, age, gender, social class, etc.
 
-Methods:
+# Methods:
 
-The notebook uses the following machine learning methods:
+# The notebook uses the following machine learning methods:
 
     Linear regression: Predicts the survival rate based on independent variables such as age, gender, and social class.
     Decision tree: Classifies passengers into survivors and non-survivors based on independent variables.
-    Reinforcement learning: Optimizes the hyperparameters of the model to improve performance.
 
-Results:
+# Results:
 
 The notebook presents the results of analyzing the Titanic dataset using machine learning methods, including:
 
@@ -22,24 +21,24 @@ The notebook presents the results of analyzing the Titanic dataset using machine
     Importance of independent variables
     Factors affecting the survival rate
 
-Instructions:
+# Instructions:
 
 To use this notebook, you need to install Python and Jupyter Notebook. Then, you can download the notebook from this repo and run it in Jupyter Notebook.
 
-Note:
+# Note:
 
 This notebook is for research and learning purposes only.
 
-References:
+# References:
 
     Titanic dataset: https://www.kaggle.com/c/titanic
     Machine learning: https://developers.google.com/machine-learning/
     Jupyter Notebook: https://jupyter.org/
 
-Contact:
+# Contact:
 
 If you have any questions about this repo, please contact [repo author name] ([repo author email]).
 
-License:
+# License:
 
 This repository is licensed under the MIT license.
